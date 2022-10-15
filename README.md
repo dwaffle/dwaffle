@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dwaffle
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java to add to my JavaScript and C# knowledge.
+- 💞️ I’m looking to collaborate on projects involving API developent
 - 📫 How to reach me stryderdlw@gmail.com
 
 <!---
